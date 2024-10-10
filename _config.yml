@@ -22,7 +22,7 @@ title: Siniestros Viales Misiones
 email: felipe.b4rros@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Proyecto desarrollado por docentes y estudiantes de la Tecnicatura Universitaria en Sistemas de Información Geográfica y Teldetección (TUSIGyT) de la Universidad Nacional de Misiones (UNaM) - Argentina.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://github.com/FelipeSBarros/proyecto_siniestros_viales_page" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  FelipeSBarros
