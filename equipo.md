@@ -11,7 +11,9 @@ permalink: /el_equipo/
     <h3>{{ membro.nome }}</h3>
     <p><strong>{{ membro.cargo }}</strong></p>
     <p>{{ membro.bio }}</p>
-    <a href="{{ membro.link }}" target="_blank">Página pessoal</a>
+    {% if membro.link %}
+        <a href="{{ membro.link }}" target="_blank">Página pessoal</a>
+    {% endif %}
   </div>
   {% endfor %}
 </div>

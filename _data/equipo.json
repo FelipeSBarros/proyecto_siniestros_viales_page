@@ -2,16 +2,20 @@
   {
     "nome": "Felipe Sodré Mendes Barros",
     "foto": "Felipe.jpg",
-    "bio": "Mgter. Docente de la Tecnicatura Universitária en SIG y Teledetección.",
+    "bio": "Mgter. Docente de la Tecnicatura Universitaria en SIG y Teledetección.",
     "link": "http://FelipeSBarros.github.io",
-    "cargo": "Director de tesis",
+    "cargo": "Director de tesis"
+  },
+  {
+    "nome": "Alejandro R. Vargas",
+    "foto": "Alejandro.jpeg",
+    "bio": "Ing. Ftal. Director y Docente de la Tecnicatura Universitaria en SIG y Teledetección",
+    "cargo": "Co-Director de tesis"
   },
   {
     "nome": "Claudia Vargas",
     "foto": "Claudia.png",
     "bio": "Técnica en SIG y Teledetección.",
-    "link": "",
-    "cargo": "Técnica en SIG y Teldetección",
-  },
+    "cargo": "Técnica en SIG y Teldetección"
+  }
 ]
-
