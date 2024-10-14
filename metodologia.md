@@ -11,3 +11,4 @@ Haciendo uso de lenguaje de programación Python, se accedió a la página del d
 1. [Limpieza, georreferenciación y análisis de datos]():
 Los datos recompilados fueron organizados de manera a permitir su georreferenciación;
 
+Para detallamiento completo de la metodología, ver [página de publicaciones]({{ site.baseurl }}/publicaciones/).

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Equipo
-permalink: /el_equipo/
+permalink: /equipo/
 ---
 
 <div class="equipe-container">

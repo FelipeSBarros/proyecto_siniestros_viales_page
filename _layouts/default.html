@@ -13,24 +13,23 @@
 	}
 
 	.imagem-reduzida {
-	  width: 100px;
-	  height: 100px;
-	  border-radius: 50%;
+	  width: 25%;
+	  height: 25%;
+	  border-radius: 0%;
 	  object-fit: cover;
 	}
+    .imagem-redonda {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      filter: grayscale(100%); /* Preto e branco */
+      transition: filter 0.5s ease; /* Transição suave ao passar o mouse */
+      }
 
-        .imagem-redonda {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-            filter: grayscale(100%); /* Preto e branco */
-            transition: filter 0.5s ease; /* Transição suave ao passar o mouse */
-        }
-
-        .imagem-redonda:hover {
-            filter: grayscale(0%); /* Volta a ser colorida ao passar o mouse */
-        }
+    .imagem-redonda:hover {
+      filter: grayscale(0%); /* Volta a ser colorida ao passar o mouse */
+    }
 </style>
 
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">

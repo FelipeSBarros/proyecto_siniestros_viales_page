@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Universidad Nacional de Misiones - UNaM",
+    "logo": "UNaM.png",
+    "link": "https://www.unam.edu.ar/",
+  },
+  {
+    "nombre": "Facultad de Ciencias Forestales - FCF",
+    "logo": "FCF.jpeg",
+    "link": "https://www.fcf.unam.edu.ar/",
+    },
+  {
+    "nombre": "Tecnicatura Universitario en SIG y Teldetección - TUSIGyT",
+    "logo": "TUSIGyT.jpeg",
+    "link": "https://www.fcf.unam.edu.ar/carreras/tec-univ-sist-infor-geo-tele/"
+  },
+]

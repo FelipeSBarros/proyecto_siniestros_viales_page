@@ -26,6 +26,8 @@ baseurl: "/proyecto_siniestros_viales_page" # the subpath of your site, e.g. /bl
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  FelipeSBarros
+linkedin_username:  felipesodre
+mastodon_username:  felipesodre
 
 # Build settings
 theme: minima
@@ -34,18 +36,14 @@ plugins:
 
 defaults:
   - scope: 
-      path: "assets/img"
-    values:
-      image: true
-  - scope: 
-      path: "assets/img/equipo"
-    values:
-     equipo: true
-  - scope: 
       path: "assets/img/logos"
     values:
      logos: true
-   
+  - scope:
+      path: "assets/publicaciones"
+    values:
+     publicacion: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
