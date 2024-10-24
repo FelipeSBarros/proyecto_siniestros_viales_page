@@ -15,7 +15,8 @@
   {
     "nome": "Claudia Vargas",
     "foto": "Claudia.png",
-    "bio": "Técnica en SIG y Teledetección.",
-    "cargo": "Técnica en SIG y Teldetección"
+//    "bio": "Técnica en SIG y Teledetección.",
+    "cargo": "Técnica en SIG y Teldetección",
+    "proyecto": "Georreferenciación y análisis de Siniestros Viales"
   }
 ]

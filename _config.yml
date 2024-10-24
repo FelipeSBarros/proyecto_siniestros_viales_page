@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Siniestros Viales Misiones
+title: Lab Inteligencia Territorial
 email: felipe.b4rros@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Proyecto desarrollado por docentes y estudiantes de la Tecnicatura Universitaria en Sistemas de Información Geográfica y Teldetección (TUSIGyT) de la Universidad Nacional de Misiones (UNaM) - Argentina.
