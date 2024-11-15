@@ -23,7 +23,7 @@ permalink: /proyectos/siniestros_viales_misiones/
         <li>
           <strong>{{ publicacion.titulo }}</strong>
           {% if publicacion.documento %}
-            - <a href="{{ site.baseurl }}/assets/docs/{{ publicacion.documento }}" target="_blank">Descargar documento</a>
+            - <a href="{{ site.baseurl }}/assets/publicaciones/{{ publicacion.documento }}" target="_blank">Descargar documento</a>
           {% endif %}
         {% if publicacion.link_dato %}
             - <a href="{{ site.baseurl }}/assets/datos/{{ publicacion.link_dato }}" target="_blank">Descargar datos</a>
