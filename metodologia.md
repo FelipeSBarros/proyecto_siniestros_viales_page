@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Metodología
+title: 
 permalink: /metodología/
 ---
 

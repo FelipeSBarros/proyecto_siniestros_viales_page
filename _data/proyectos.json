@@ -1,12 +1,6 @@
 [
   {
     "nome": "Georreferenciación y análisis de Siniestros Viales ocurridos en la provincia de Misiones",
-    "objetivos": "Integrar las herramientas de Sistemas de Información Geográfica, análisis de datos espaciales y datos abiertos para promover la seguridad vial en la provincia.\n\nLos datos fueron recolectados desde las noticias del periódico <a href='https://www.primeraedicion.com.ar/' target='_blank'> Primera Edición </a> usando tecnicas de raspado de datos y, en seguida, fueron georreferenciados usando herramientas de SIG y geocoding.\n\nLa presente página tiene por objetivo presentar los resultados de forma dinámica e interactiva a la población interesada.\n",
-    "metodologia": "<br>El proyecto de mapeo y análisis de datos de siniestros viales siguió los siguientes pasos:<br>\n\n1.<a href='https://github.com/FelipeSBarros/siniestros_viales_misiones'>Raspado de datos de reportajes del diário Primera Edición</a>:\nHaciendo uso de lenguaje de programación Python, se accedió a la página del diário Primera Edición para identificar y descargar las informaciónes de las noticias que tenían 'siniestro' en el título.<br>\n2.Limpieza, georreferenciación y análisis de datos:\nLos datos recompilados fueron organizados de manera a permitir su georreferenciación;<br>\n\n",
-    "publicaciones": [
-      {"titulo": "Geotecnologías aplicadas al análisis de siniestros viales ocurridos en Misiones durante los años 2022 y 2023, reportados por el diario Primera Edición",
-        "documento":  "2024_Claudia_Maria_Vargas.pdf"
-      }
-    ]
+    "enlace": "proyectos/siniestros_viales_misiones/",
   }
 ]
