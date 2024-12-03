@@ -5,8 +5,8 @@
     {"titulo": "Geotecnologías aplicadas al análisis de siniestros viales ocurridos en Misiones durante los años 2022 y 2023, reportados por el diario Primera Edición",
       "documento":  "2024_Claudia_Maria_Vargas.pdf",
       "nome_dado": "Siniestros Viales Misiones 2021 hasta 2022",
-      "link_dato": "Datos siniestros.gpkg",
-      "mapa_web": "siniestros_valies_2021-2022.html"
+      "link_dato": "siniestros_viales_Misiones_2022-2023.gpkg",
+      "mapa_web": "siniestros_viales_Misiones_2022-2023.html"
     }
   ],
  "equipo":[
