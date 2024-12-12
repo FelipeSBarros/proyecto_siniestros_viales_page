@@ -33,12 +33,17 @@
 ],
   "noticias":
           [
-  {
-    "medio": "Primera Edición",
-    "titulo": "Relevó las noticias de los dos últimos años y creó una estadística de siniestros viales en Misiones",
-    "link": "https://www.primeraedicion.com.ar/nota/100939372/relevo-las-noticias-de-los-dos-ultimos-anos-y-creo-una-estadistica-de-siniestros-viales-en-misiones/#google_vignette",
-    "youtube": "https://www.youtube.com/watch?v=fmyv-pPSdHE&t=1s",
-    "radio": "https://www.youtube.com/watch?v=fmyv-pPSdHE&t=1s",
-  }
+            {
+              "medio": "Primera Edición",
+              "titulo": "Relevó las noticias de los dos últimos años y creó una estadística de siniestros viales en Misiones",
+              "link": "https://www.primeraedicion.com.ar/nota/100939372/relevo-las-noticias-de-los-dos-ultimos-anos-y-creo-una-estadistica-de-siniestros-viales-en-misiones/#google_vignette",
+              "youtube": "https://www.youtube.com/watch?v=fmyv-pPSdHE&t=1s",
+              "radio": "https://www.youtube.com/watch?v=fmyv-pPSdHE&t=1s",
+              },
+            {
+              "medio": "Otro Aire FM Universidad",
+              "titulo": "Geotecnologias aplicadas al análisis de siniestros viales",
+              "link": "https://www.youtube.com/watch?v=wD4akNEuIUA",
+              }
 ]
 }
