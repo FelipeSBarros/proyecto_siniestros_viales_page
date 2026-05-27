@@ -1,6 +1,10 @@
 [
   {
     "nome": "Georreferenciación y análisis de Siniestros Viales ocurridos en la provincia de Misiones",
-    "enlace": "proyectos/siniestros_viales_misiones/",
+    "enlace": "proyectos/siniestros_viales_misiones/"
+  },
+  {
+    "nome": "Hot Spot de vulnerabilidad climática",
+    "enlace": "proyectos/ClimateChangeHotSpot/"
   }
 ]

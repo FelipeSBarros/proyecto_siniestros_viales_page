@@ -1,0 +1,33 @@
+{
+  "objetivos": "Identificar y caracterizar hotspots de exposición climática térmica e hídrica en el Cono Sur mediante el análisis espacial de variables bioclimáticas proyectadas bajo escenarios de cambio climático.\n",
+  "metodologia": "<br>Cálculo de anomalías climáticas futuras (Δ), normalización regional mediante z-score, construcción de índices compuestos de estrés térmico e hídrico y análisis espacial de hotspots utilizando estadísticas zonales y técnicas de geoprocesamiento en Python y R.;<br>\n\n",
+  "publicaciones": [
+    {"titulo": "HOTSPOTS DE VULNERABILIDADE CLIMÁTICA NA ARGENTINA E NO URUGUAI: UMA ANÁLISE ESPACIALMENTE EXPLÍCITA DE ESTRESSE TÉRMICO E HÍDRICO (CMIP6/SSP585)",
+      "documento":  "ResumenCambioClimaticoArgentinaUruguay.pdf",
+      "nome_dado": "Hot Spot de cambio climático en Argentina y Uruguay"
+    }
+  ],
+ "equipo":[
+   {
+    "nome": "Felipe Sodré Mendes Barros",
+    "foto": "Felipe.jpg",
+    "bio": "Mgter. Docente de la Tecnicatura Universitaria en SIG y Teledetección.",
+    "link": "http://FelipeSBarros.github.io",
+    "cargo": "Director de tesis"
+    },
+   {
+    "nome": "Victor Cano",
+    "foto": "VictorCano.jpeg",
+    "bio": "Desarrollador y estudiante avanzado de la Tecnicatura Universitária en SIG y Teledetección",
+    "cargo": "Técnica en SIG y Teledetección"
+    }
+],
+  "noticias":
+          [
+            {
+              "medio": "Otro Aire FM Universidad - Rádio UNaM",
+              "titulo": "Victor Cano. los Impactos del cambio climático en Argentina y Uruguay.",
+              "link": "https://youtu.be/Rz7420d2bls?si=zOodXla2dmItsKnT"
+              }
+]
+}
